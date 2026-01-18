@@ -1,7 +1,7 @@
 ## Hello 👋
 
 ⚡ I'm interested in
-- Robotics
+- Robotics (Controls, Perception, Decision-Making)
 - Neuro-symbolic AI
 
 🔭 I’m currently working on
