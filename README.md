@@ -1,12 +1,14 @@
 ## Hello 👋
 
 ⚡ I'm interested in
-- Robotics (Controls, Perception, Decision-Making)
+- Robotics (Perception, Manipulation)
 - Neuro-symbolic AI
 
+<!--
 🔭 I’m currently working on
 - a Julia ROS2 Library
 - A chrome extension to download papers, catalog them into my todo system, and import them into my notetaking app
+-->
 
 [lukebarbier.com](https://lukebarbier.com)
 
