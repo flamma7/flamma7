@@ -1,8 +1,7 @@
 ## Hello 👋
 
 ⚡ I'm interested in
-- Robotics (Perception, Manipulation)
-- Neuro-symbolic AI
+- JEPA-based world models for robotic perception and manipulation
 
 <!--
 🔭 I’m currently working on
@@ -10,7 +9,7 @@
 - A chrome extension to download papers, catalog them into my todo system, and import them into my notetaking app
 -->
 
-[lukebarbier.com](https://lukebarbier.com)
+<!-- [lukebarbier.com](https://lukebarbier.com) -->
 
 <!--
 **flamma7/flamma7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
